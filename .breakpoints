@@ -1,0 +1,20 @@
+{
+  "files": {
+    "commands/avatar.js": [
+      {
+        "id": "359093d9-4cf4-48b3-89a2-01199921b95f",
+        "line": 5,
+        "version": 60,
+        "index": 67
+      }
+    ],
+    "commands/clear.js": [
+      {
+        "id": "8aa5a5d4-3082-4e78-89eb-6258d3452d1d",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
+}
